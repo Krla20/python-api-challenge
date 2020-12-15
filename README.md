@@ -1,7 +1,7 @@
 ***
 # Python API Challenge
 ***
-# WeatherPy Analysis🌏🌄🌅⛅⛈☁🌤🌥🌦🌧🌨🌩🌪🌫☀🌎
+# WeatherPy Analysis🌏☀🌤⛅⛈☁🌤🌥🌦🌧🌨🌩🌪🌎
 ***
 👍Create a series of scatter plots to showcase the following relationships: Temperature (F) vs. Latitude, Humidity (%) vs. Latitude, Cloudiness (%) vs. Latitude, Wind Speed (mph) vs. Latitude. (After each plot, add a sentence or two explaining what the code is analyzing).
 
@@ -32,20 +32,16 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 * Humidity (%) vs. Latitude Linear Regression: The low r values indicate a weak to no relationship between humidity and latitude.
 * Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
 * Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
-                                                  The difference between the hemispheres doesn't seem to be significant enough to comment upon.
-<p align= "center">
-           
+                                                   The difference between the hemispheres doesn't seem to be significant enough to comment upon.           
 ![alt text](https://github.com/Krla20/python-api-challenge/blob/main/output_data/linear_regression.png?raw=true)
 
 ***
-# VacationPy Analysis🎉👓🥽🧤🩱🩳👚⚽⚾🏈♥🚊✈🏝🌄🌬☀
+# VacationPy Analysis🎉👓🥽⚽⚾🏈♥🚊✈🏝🌄
 ***
 👍Create a heat map that displays the humidity for every city from Part I.
 
 ✔Narrow down the DataFrame to find your ideal weather condition. Criteria for "Ideal Weather": A max temperature lower than 80 degrees but higher than 70, wind speed less than 10 mph, zero cloudiness, drop any rows that don't contain all three conditions.
 
-<p align= "center">
-           
 ![alt text](https://github.com/Krla20/python-api-challenge/blob/main/output_data/map.png)
 
 👀These are the cities and hotel randomely chose for my project regarding the temperatures requested 
@@ -60,6 +56,4 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 * City: Belmonte - Country: Brazil - Hotel Name: CEPLAC Comissão Executiva Plano Lavoura Cacaueira
 * City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
 
-<p align= "center">
-           
 ![alt text](https://github.com/Krla20/python-api-challenge/blob/main/output_data/map%20(2).png)
