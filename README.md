@@ -12,26 +12,26 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
             ***Save a CSV of all retrieved data and a PNG image for each scatter plot.***
             
 --Latitude vs. Temperature
-*The closer to the equator the hotter it is.
-*Between latitudes -20 and 20 are the hottest temperature in the cities.
-*The far a city is from the equator the colder it is.
+* The closer to the equator the hotter it is.
+* Between latitudes -20 and 20 are the hottest temperature in the cities.
+* The far a city is from the equator the colder it is.
 
 --Latitude vs. Humidity
-*The data seems to be spread and hard to define where.
-*The cities with the highest humidity are located between latitudes 40-75
+* The data seems to be spread and hard to define where.
+* The cities with the highest humidity are located between latitudes 40-75
 
 --Latitude vs. Cloudiness
-*The cloudiness is everywhere depending of the weather changes
+* The cloudiness is everywhere depending of the weather changes
 
 --Latitude vs. Wind Speed
-*The colder the temperature is the more wind that blows
+* The colder the temperature is the more wind that blows
 
 -- Linear Regression:
 
-*Max Temp vs. Latitude Linear Regression: The high r value indicates a strong positive correlation between latitude and max temperature.
-*Humidity (%) vs. Latitude Linear Regression: The low r values indicate a weak to no relationship between humidity and latitude.
-*Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
-*Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
+ Max Temp vs. Latitude Linear Regression: The high r value indicates a strong positive correlation between latitude and max temperature.
+* Humidity (%) vs. Latitude Linear Regression: The low r values indicate a weak to no relationship between humidity and latitude.
+* Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
+* Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
                                                   The difference between the hemispheres doesn't seem to be significant enough to comment upon.
 
 
@@ -45,20 +45,12 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 
 👀These are the cities and hotel randomely chose for my project regarding the temperatures requested 
 
-City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
-
-City: Betioky - Country: Madagascar - Hotel Name: RadioFeon'nyOnilahy
-
-City: Kodār - Country: India - Hotel Name: RadioFeon'nyOnilahy
-
-City: Jizan - Country: Saudi Arabia - Hotel Name: Missing field/result... skipping
-
-City: Ampanihy - Country: Madagascar - Hotel Name: Hotel Restaurant ANGORA
-
-City: Sur - Country: Saudi Oman - Hotel Name: Pizza Hut
-
-City: Bara - Country: Nigeria - Hotel Name: Missing field/result... skipping
-
-City: Belmonte - Country: Brazil - Hotel Name: CEPLAC Comissão Executiva Plano Lavoura Cacaueira
-
-City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
+* City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
+* City: Betioky - Country: Madagascar - Hotel Name: RadioFeon'nyOnilahy
+* City: Kodār - Country: India - Hotel Name: RadioFeon'nyOnilahy
+* City: Jizan - Country: Saudi Arabia - Hotel Name: Missing field/result... skipping
+* City: Ampanihy - Country: Madagascar - Hotel Name: Hotel Restaurant ANGORA
+* City: Sur - Country: Saudi Oman - Hotel Name: Pizza Hut
+* City: Bara - Country: Nigeria - Hotel Name: Missing field/result... skipping
+* City: Belmonte - Country: Brazil - Hotel Name: CEPLAC Comissão Executiva Plano Lavoura Cacaueira
+* City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
