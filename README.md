@@ -31,12 +31,13 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
            Max Temp vs. Latitude Linear Regression: The high r value indicates a strong positive correlation between latitude and max temperature.
            Humidity (%) vs. Latitude Linear Regression: The low r values indicate a weak to no relationship between humidity and latitude.
            Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
-           Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. The difference between the hemispheres doesn't seem to be significant enough to comment upon.
+           Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
+                                                            The difference between the hemispheres doesn't seem to be significant enough to comment upon.
 
 
 
 ***
-# VacationPy Analysis🎉👓🥽🧤🩱🩳👚⚽⚾🏈♥
+# VacationPy Analysis🎉👓🥽🧤🩱🩳👚⚽⚾🏈♥🚊✈🏝🌄🌬☀
 ***
 👍Create a heat map that displays the humidity for every city from Part I.
 
