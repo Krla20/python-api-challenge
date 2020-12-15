@@ -1,7 +1,7 @@
 ***
 # Python API Challenge
 ***
-# WeatherPy Analysis🌏🧭🌄🌅⛅⛈☁🌤🌥🌦🌧🌨🌩🌪🌫☀⭐🌚
+# WeatherPy Analysis🌏🌄🌅⛅⛈☁🌤🌥🌦🌧🌨🌩🌪🌫☀🌎
 ***
 👍Create a series of scatter plots to showcase the following relationships: Temperature (F) vs. Latitude, Humidity (%) vs. Latitude, Cloudiness (%) vs. Latitude, Wind Speed (mph) vs. Latitude. (After each plot, add a sentence or two explaining what the code is analyzing).
 
@@ -12,25 +12,18 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
             ***Save a CSV of all retrieved data and a PNG image for each scatter plot.***
             
 --Latitude vs. Temperature
-
 *The closer to the equator the hotter it is.
-
 *Between latitudes -20 and 20 are the hottest temperature in the cities.
-
 *The far a city is from the equator the colder it is.
 
 --Latitude vs. Humidity
-
 *The data seems to be spread and hard to define where.
-
 *The cities with the highest humidity are located between latitudes 40-75
 
 --Latitude vs. Cloudiness
-
 * The cloudiness is everywhere depending of the weather changes
 
 --Latitude vs. Wind Speed
-
 *The colder the temperature is the more wind that blows
 
 -- Linear Regression:
