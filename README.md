@@ -1,9 +1,9 @@
 ***
-Python API Challenge
+#Python API Challenge
 ***
-WeatherPy
+#WeatherPy
 ***
-VacationPy
+#VacationPy
 ***
 👍Create a heat map that displays the humidity for every city from Part I.
 ✔Narrow down the DataFrame to find your ideal weather condition. Criteria for "Ideal Weather": A max temperature lower than 80 degrees but higher than 70, wind speed less than 10 mph, zero cloudiness, drop any rows that don't contain all three conditions.
