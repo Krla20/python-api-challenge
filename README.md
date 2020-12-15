@@ -12,11 +12,19 @@
 👀These are the cities and hotel randomely chose for my project regarding the temperatures requested 
 
 City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
+
 City: Betioky - Country: Madagascar - Hotel Name: RadioFeon'nyOnilahy
+
 City: Kodār - Country: India - Hotel Name: RadioFeon'nyOnilahy
+
 City: Jizan - Country: Saudi Arabia - Hotel Name: Missing field/result... skipping
+
 City: Ampanihy - Country: Madagascar - Hotel Name: Hotel Restaurant ANGORA
+
 City: Sur - Country: Saudi Oman - Hotel Name: Pizza Hut
+
 City: Bara - Country: Nigeria - Hotel Name: Missing field/result... skipping
+
 City: Belmonte - Country: Brazil - Hotel Name: CEPLAC Comissão Executiva Plano Lavoura Cacaueira
+
 City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
