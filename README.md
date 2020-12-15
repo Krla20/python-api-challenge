@@ -21,19 +21,18 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 *The cities with the highest humidity are located between latitudes 40-75
 
 --Latitude vs. Cloudiness
-* The cloudiness is everywhere depending of the weather changes
+*The cloudiness is everywhere depending of the weather changes
 
 --Latitude vs. Wind Speed
 *The colder the temperature is the more wind that blows
 
 -- Linear Regression:
 
-           Max Temp vs. Latitude Linear Regression: The high r value indicates a strong positive correlation between latitude and max temperature.
-           Humidity (%) vs. Latitude Linear Regression: The low r values indicate a weak to no relationship between humidity and latitude.
-           Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
-           Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
-                                                            The difference between the hemispheres doesn't seem to be significant enough to comment upon.
-
+*Max Temp vs. Latitude Linear Regression: The high r value indicates a strong positive correlation between latitude and max temperature.
+*Humidity (%) vs. Latitude Linear Regression: The low r values indicate a weak to no relationship between humidity and latitude.
+*Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
+*Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
+                                                  The difference between the hemispheres doesn't seem to be significant enough to comment upon.
 
 
 ***
