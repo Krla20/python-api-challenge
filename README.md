@@ -1,11 +1,35 @@
 ***
 # Python API Challenge
 ***
-# WeatherPy
+# WeatherPy Analysis(☞ﾟヮﾟ)☞☜(ﾟヮﾟ☜)¯\_(ツ)_/¯
 ***
-# VacationPy
+--Latitude vs. Temperature
+
+*The closer to the equator the hotter it is.
+
+*Between latitudes -20 and 20 are the hottest temperature in the cities.
+
+*The far a city is from the equator the colder it is.
+
+--Latitude vs. Humidity
+
+*The data seems to be spread and hard to define where.
+
+*The cities with the highest humidity are located between latitudes 40-75
+
+--Latitude vs. Cloudiness
+
+* The cloudiness is everywhere depending of the weather changes
+
+--Latitude vs. Wind Speed
+
+*The colder the temperature is the more wind that blows
+
+***
+# VacationPy Analysis🎉👓🥽🧤🩱🩳👚⚽⚾🏈♥
 ***
 👍Create a heat map that displays the humidity for every city from Part I.
+
 ✔Narrow down the DataFrame to find your ideal weather condition. Criteria for "Ideal Weather": A max temperature lower than 80 degrees but higher than 70, wind speed less than 10 mph, zero cloudiness, drop any rows that don't contain all three conditions.
 
 
