@@ -33,6 +33,7 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 * Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
 * Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
                                                   The difference between the hemispheres doesn't seem to be significant enough to comment upon.
+<p align= "center">
 ![alt text](https://github.com/Krla20/python-api-challenge/blob/main/output_data/linear_regression.png?raw=true)
 
 ***
@@ -42,6 +43,7 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 
 ✔Narrow down the DataFrame to find your ideal weather condition. Criteria for "Ideal Weather": A max temperature lower than 80 degrees but higher than 70, wind speed less than 10 mph, zero cloudiness, drop any rows that don't contain all three conditions.
 
+<p align= "center">
 ![alt text](https://github.com/Krla20/python-api-challenge/blob/main/output_data/map.png)
 
 👀These are the cities and hotel randomely chose for my project regarding the temperatures requested 
@@ -55,4 +57,5 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 * City: Bara - Country: Nigeria - Hotel Name: Missing field/result... skipping
 * City: Belmonte - Country: Brazil - Hotel Name: CEPLAC Comissão Executiva Plano Lavoura Cacaueira
 * City: Mandera - Country: Kenya - Hotel Name: M-Pesa Olkitira Communications Agency Ltd
+<p align= "center">
 ![alt text](https://github.com/Krla20/python-api-challenge/blob/main/output_data/map%20(2).png)
