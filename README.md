@@ -33,7 +33,7 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude, Southern Hemisphere - Wind 
 * Cloudiness (%) vs. Latitude Linear Regression: The low r values indicate a weak positive relationship between latitude and cloudiness.     
 * Wind Speed (mph) vs. Latitude Linear Regression: The low r values indicate that there is no real relationship between wind speed and latitude. 
                                                   The difference between the hemispheres doesn't seem to be significant enough to comment upon.
-![](output_data/linear_regression.png
+![alt text](https://github.com/Krla20/python-api-challenge/blob/main/output_data/linear_regression.png?raw=true)
 
 ***
 # VacationPy Analysis🎉👓🥽🧤🩱🩳👚⚽⚾🏈♥🚊✈🏝🌄🌬☀
