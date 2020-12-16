@@ -1,7 +1,7 @@
 ***
 # Python API Challenge
 ***
-# WeatherPy Analysis🌏☀🌤⛅⛈☁🌤🌥🌦🌧🌨🌩🌪🌎
+# WeatherPy Analysis🌏☀🌤⛅⛈☁🌤🌥🌦🌨🌩🌎
 ***
 👍Create a series of scatter plots to showcase the following relationships: Temperature (F) vs. Latitude, Humidity (%) vs. Latitude, Cloudiness (%) vs. Latitude, Wind Speed (mph) vs. Latitude. (After each plot, add a sentence or two explaining what the code is analyzing).
 
